@@ -1,2 +1,2 @@
 Few Java progream for practice
-dsd
+dsd main
